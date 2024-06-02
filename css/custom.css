@@ -1,10 +1,34 @@
-.overlay{
+.overlay-left{
     border-image:  linear-gradient(
         to right,
-        #2e2c2cac,
+        #2e2c2ccd,
+        #ff4b2b00
+    ) fill 1;
+}
+.overlay-bg{
+    border-image:   linear-gradient(
+        #2e2c2ccd,
         #ff4b2b00
     ) fill 1;
 }
 .slider-heading h1, .slider-heading p {
     color: #fff;
+}
+
+p{
+    font-size: 16px;
+}
+.slider-sub-heading{
+    font-size: 18px;
+}
+
+.services  ul{
+        padding-inline-start: 20px !important;
+    
+}
+
+.projects img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
