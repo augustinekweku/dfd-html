@@ -6,7 +6,7 @@ body {
   font-family: "Roboto", sans-serif;
   line-height: 1.7;
   font-size: 15px;
-  color: #7a7a7a;
+  color: #2f2f2f;
   background: #fff;
   overflow-x: hidden; }
   body:before {
@@ -636,7 +636,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   .service h3 {
     font-size: 18px; }
   .service p {
-    color: #7a7a7a; }
+    color: #2f2f2f; }
 
 .site-cover-2 {
   background-size: cover;
@@ -1247,7 +1247,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   margin-bottom: 10px;
   border-radius: 7px; }
   .service-2.link .service-contents {
-    color: #939393; }
+    color: #2f2f2f; }
     .service-2.link .service-contents *:last-child {
       margin-bottom: 0; }
   .service-2.link:hover, .service-2.link.active {
