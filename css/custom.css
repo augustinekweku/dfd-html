@@ -32,3 +32,19 @@ p{
     height: 100%;
     object-fit: cover;
 }
+
+
+.service-card{
+    border-top: 3px solid #f15558;
+border-radius: 7px;
+}
+
+.service-card img {
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
+}
+
+.service-card-image-card{
+    text-align: center;
+}
