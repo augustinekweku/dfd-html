@@ -48,3 +48,7 @@ border-radius: 7px;
 .service-card-image-card{
     text-align: center;
 }
+
+.navbar-icon{
+    font-size: larger !important;
+}
