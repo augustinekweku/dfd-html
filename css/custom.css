@@ -52,3 +52,9 @@ border-radius: 7px;
 .navbar-icon{
     font-size: larger !important;
 }
+
+@media screen and (max-width: 768px) {
+    .site-menu-toggle{
+        margin-right: 20px;
+    }
+}
